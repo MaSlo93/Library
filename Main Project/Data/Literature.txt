@@ -1,0 +1,30 @@
+Book--5--ISBN001--Pride and Prejudice--Jane Austen--Romance--1813
+Comic--3--1--Batman #3--DC comics--Superhero--1998
+Book--3--ISBN002--The Fellowship of the Ring--J. R. R. Tolkien--Fantasy--1954
+Comic--3--3--Infinity Gauntlet #3--Marvel--Superhero--1991
+Book--4--ISBN003--Jane Eyre--Charlote Bronte--Romance--1847
+Comic--2--1--Frankenstein #4--Marvel--Superhero--1973
+Book--2--ISBN005--To Kill a Mockingbird--Harper Lee--Coming of age--1960
+Comic--3--1--Asterix the Gladiator--René Goscinny--Comedy--1964
+Comic--2--1--Asterix the Legionary--René Goscinny--Comedy--1967
+Book--3--ISBN013--The Da Vinci Code--Dan Brown--Thriller--2003
+Comic--3--1--Asterix in Britain--René Goscinny--Comedy--1966
+Comic--4--1--Infinity Gauntlet #4--Marvel--Superhero--1991
+Book--5--ISBN004--Harry Potter and the Sorcerer's Stone--J. K. Rowling--Fantasy--1997
+Book--2--ISBN015--Dracula--Bram Stoker--Novel--1897
+Comic--1--2--Batman #4--DC comics--Superhero--1998
+Book--1--ISBN014--Dune--Frank Herbert--Science fiction--1965
+Comic--5--3--Batman #1--DC comics--Superhero--1998
+Comic--2--2--Batman #2--DC comics--Superhero--1998
+Book--2--ISBN012--Grapes of Wrath--John Steinbeck--Novel--1939
+Book--1--ISBN006--Wuthering Heights--Emily Bronte--Romance--1847
+Book--2--ISBN007--Nineteen Eighty-Four--George Orwell--Science fiction--1949
+Comic--4--1--Frankenstein #3--Marvel--Superhero--1973
+Comic--1--1--Asterix the Gaul--René Goscinny--Comedy--1961
+Book--1--ISBN011--War and Peace--Leo Tolstoy--Historical novel--1869
+Book--3--ISBN008--The Hobbit--J. R. R. Tolkien--Fantasy--1937
+Comic--2--3--Infinity Gauntlet #1--Marvel--Superhero--1991
+Comic--1--1--Infinity Gauntlet #2--Marvel--Superhero--1991
+Book--6--ISBN009--The Catcher in the Rye--J.D. Salinger--Coming of age--1951
+Comic--5--1--Frankenstein #1--Marvel--Superhero--1973
+Book--2--ISBN010--The Great Gatsby--F. Scott Fitzgerald--Tragedy--1925
